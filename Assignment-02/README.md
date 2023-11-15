@@ -16,7 +16,7 @@ The program will need to prompt the user for several inputs, namely:
 - The fractional amount of ETH the user would like to purchase (must be greater than zero)
 - Whether the user would like to stake their ETH or not
 
-The program will need to simulate the spot price for 1.000000 ETH. Generate a random value between $2,600.00 and $2,900.99 to simulate the current ETH price. The simulated price only needs to be generated once during the program's execution. 
+The program will need to simulate the spot price for 1.000000 ETH. Generate a random value between $2,600.00 and $2,999.99 to simulate the current ETH price. The simulated price only needs to be generated once during the program's execution. 
 _NOTE: For testing purposes, you may set the cost for 1.000000 ETH to a fixed amount. Ensure your final submission makes use of the generated value._
 
 The program will apply a commision (charged by the centralized exchange) to the trade using the following table:
