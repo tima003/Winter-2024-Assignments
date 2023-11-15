@@ -2,7 +2,7 @@
 > Assignments for this term are posted to this repository. You can copy these instructions to your assignment repository set up by your instructor for this term. However, any updates to the instructions will be placed within this repository.
 
 1. [Assignment 01](./Assignment-01/README.md)
-1. [Assignment 02](#)
+1. [Assignment 02](./Assignment-02/README.md)
 1. [Assignment 03](#)
 1. [Assignment 04](#)
 
