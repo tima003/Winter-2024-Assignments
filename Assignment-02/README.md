@@ -51,9 +51,9 @@ _NOTE: push early and often to your repository to recieve feedback from your ins
 ## Rubric
 | Mark | Description |
 |---|---|
-| 5  | Excellent – program passes all test cases and coding follows best practices and class standards |
-| 4  | Very Good – program passes all test cases, but coding does not follow best practices and class standards |
-| 3  | Acceptable – coded most the requirements and program produces the expected results for some of the test cases |
-| 2  | Needs Work – coded some the requirements but program fails to produce expected results |
-| 1  | Unsatisfactory – code does not meet any of the requirements |
+| 5  | Excellent – program passes all test cases, does not crash for any reason, and coding follows best practices and class standards |
+| 4  | Very Good – program passes all test cases, does not crash for any reason, but coding does not follow best practices and class standards |
+| 3  | Acceptable – coded most the requirements, does not crash for any reason, and program produces the expected results for most of the test cases |
+| 2  | Needs Work – coded some the requirements, the program crashes on invalid user input or internal processing, and the program fails to produce expected results |
+| 1  | Unsatisfactory – code does not meet any of the requirements (some code has been submitted, but the program does not compile or does not demonstrate the majority of the assessed outcome(s)) |
 | 0  | Not done |
