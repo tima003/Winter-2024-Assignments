@@ -26,11 +26,13 @@ The program will apply a commision (charged by the centralized exchange) to the 
 
 As you can see, the more ETH a user purchases, the lower the charged commission. If the user chooses to stake their ETH, calculate and display the monthly reward amount. The current annual reward rate offerred by the exchange is 3.1% using [simple interest](https://brilliant.org/wiki/simple-interest/#simple-interest-explained).
 
-The program must display all the calculated results to the user and ask them to confirm their trade. If the user confirms the trade, display a message thanking them for using DMITCryptEx. If the user cancels the trade, display a message confirming that the trade has been cancelled.
+The program must display all the calculated results to the user and ask them to confirm their trade. If the user confirms the trade, display a message that confirms the trade. If the user cancels the trade, display a message that the trade has been cancelled.
 
-_NOTE: You will need to develop your own test plan for this assignment._
+The program must allow the user to submit multiple trade requests, ending only when the user chooses to end the program. The program must also not crash or abnormally terminate due to any user input or internal processing; display appropriate error messages and recover from any errors gracefully.
 
 ### Sample Runs
+_NOTE: the repeated trade functionality of your program (i.e. the ability to choose to submit another trade request or to quit) is not shown in the sample runs below. **You will need to develop your own test plan and sample runs for the full program.**_
+
 #### Purchase and confirm
 // TODO
 
