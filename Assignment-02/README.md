@@ -38,13 +38,13 @@ The program must allow the user to submit multiple trade requests, ending only w
 _NOTE: the repeated trade functionality of your program (i.e. the ability to choose to submit another trade request or to quit) is not shown in the sample runs below. **You will need to develop your own test plan and sample runs for the full program.**_
 
 #### Purchase and confirm
-// TODO
+![assign2-confirm](https://github.com/CPSC-1012/Winter-2024-Assignments/assets/1077542/5cf700aa-2282-4799-aa0e-6347812ab608)
 
 #### Purchase and cancel
-// TODO
+![assign2-cancel](https://github.com/CPSC-1012/Winter-2024-Assignments/assets/1077542/108df177-daf5-428a-906c-59bf85e2ed28)
 
 #### Purchase, stake, and confirm
-// TODO
+![assign1-stake](https://github.com/CPSC-1012/Winter-2024-Assignments/assets/1077542/b50d0ab1-0ea1-4180-816c-211b07c685f6)
 
 ## Submission
 Commit and push your solution to your GitHub classroom assignment repository before the deadline. Ensure that your solution follows the best coding and style practices, as your instructor has shown you in class. Failed adherence to the prescribed style guidelines may result in lost marks. __Your program must compile; a program that fails to compile will not be graded.__
