@@ -25,7 +25,7 @@ The program will apply a commision (charged by the centralized exchange) to the 
 |---|---|
 | 0.000001 - 0.999999 | 1.9% |
 | 1.000000 - 4.999999 | 1.75% |
-| 5.000000 - 9.999999 | 1.5 |
+| 5.000000 - 9.999999 | 1.5% |
 | 10.0000 or more | 1.25% |
 
 As you can see, the more ETH a user purchases, the lower the charged commission. If the user chooses to stake their ETH, calculate and display the monthly reward amount. The current annual reward rate offerred by the exchange is 3.1% using [simple interest](https://brilliant.org/wiki/simple-interest/#simple-interest-explained).
