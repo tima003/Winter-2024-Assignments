@@ -20,8 +20,10 @@ do
     Console.Clear();
 
     Console.WriteLine("---- DMITCryptoEx ETH Trader ----");
+    Console.WriteLine();
 
-    Console.WriteLine("current ETH spot price is: " + price);
+    Console.WriteLine($"current ETH spot price is: {price:C}");
+    Console.WriteLine();
 
 
     do
@@ -38,11 +40,13 @@ do
         }
 
     } while (ETHPurchased <= 0);
+    Console.WriteLine();
 
 
     Console.WriteLine("current stake rate  is: 3.100%");
     Console.Write("Stake your ETH (y/n): ");
     choice = Console.ReadLine();
+    Console.WriteLine();
 
 
     //ETHPurchased = Convert.ToDouble(Console.ReadLine());
@@ -76,21 +80,23 @@ do
 
 
     Console.WriteLine("Please review your order ...");
-    Console.WriteLine($"Total ETH purchased: {ETHPurchased:N6}");
-    Console.WriteLine($"ETH spot price: {price:C}");
-    Console.WriteLine("Commission rate: " + commissionRate + "%");
-    Console.WriteLine($"Total commission: {totalCommission:C}"
+    Console.WriteLine();
+    Console.WriteLine($"Total ETH purchased:     {ETHPurchased:N6}");
+    Console.WriteLine($"ETH spot price:          {price:C}");
+    Console.WriteLine($"Commission rate:         {commissionRate} %");
+    Console.WriteLine($"Total commission:        {totalCommission:C}"
         );
     Console.WriteLine("Staked? " + choice);
     if (choice == "y")
     {
-        Console.WriteLine($"staked monthly reward: {stalkedETH:C}");
+       Console.WriteLine($"staked monthly reward:   {stalkedETH:C}");
     }
 
 
 
-    Console.WriteLine("-----------------------------");
-    Console.WriteLine("Total purchase: $" + (price + totalCommission));
+    Console.WriteLine("------------------------------------");
+    Console.WriteLine($"Total purchase:          ${price + totalCommission:C}");
+    Console.WriteLine();
     Console.Write("Would you like to continue with your order (y/n): ");
     string secondChoice = Console.ReadLine();
     if (secondChoice == "y")
@@ -113,7 +119,7 @@ do
 while (tradeRequest == "y" );
 
 
-
+Console.WriteLine();
 Console.WriteLine("Thank you for using DMITCryptoEx");
 
 Console.ReadKey();

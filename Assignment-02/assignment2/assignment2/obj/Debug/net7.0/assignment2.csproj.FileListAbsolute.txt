@@ -1,0 +1,15 @@
+/Users/fatimakhalif/Documents/getHub/Winter-2024-Assignments/Assignment-02/assignment2/assignment2/bin/Debug/net7.0/assignment2
+/Users/fatimakhalif/Documents/getHub/Winter-2024-Assignments/Assignment-02/assignment2/assignment2/bin/Debug/net7.0/assignment2.deps.json
+/Users/fatimakhalif/Documents/getHub/Winter-2024-Assignments/Assignment-02/assignment2/assignment2/bin/Debug/net7.0/assignment2.runtimeconfig.json
+/Users/fatimakhalif/Documents/getHub/Winter-2024-Assignments/Assignment-02/assignment2/assignment2/bin/Debug/net7.0/assignment2.dll
+/Users/fatimakhalif/Documents/getHub/Winter-2024-Assignments/Assignment-02/assignment2/assignment2/bin/Debug/net7.0/assignment2.pdb
+/Users/fatimakhalif/Documents/getHub/Winter-2024-Assignments/Assignment-02/assignment2/assignment2/obj/Debug/net7.0/assignment2.csproj.AssemblyReference.cache
+/Users/fatimakhalif/Documents/getHub/Winter-2024-Assignments/Assignment-02/assignment2/assignment2/obj/Debug/net7.0/assignment2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatimakhalif/Documents/getHub/Winter-2024-Assignments/Assignment-02/assignment2/assignment2/obj/Debug/net7.0/assignment2.AssemblyInfoInputs.cache
+/Users/fatimakhalif/Documents/getHub/Winter-2024-Assignments/Assignment-02/assignment2/assignment2/obj/Debug/net7.0/assignment2.AssemblyInfo.cs
+/Users/fatimakhalif/Documents/getHub/Winter-2024-Assignments/Assignment-02/assignment2/assignment2/obj/Debug/net7.0/assignment2.csproj.CoreCompileInputs.cache
+/Users/fatimakhalif/Documents/getHub/Winter-2024-Assignments/Assignment-02/assignment2/assignment2/obj/Debug/net7.0/assignment2.dll
+/Users/fatimakhalif/Documents/getHub/Winter-2024-Assignments/Assignment-02/assignment2/assignment2/obj/Debug/net7.0/refint/assignment2.dll
+/Users/fatimakhalif/Documents/getHub/Winter-2024-Assignments/Assignment-02/assignment2/assignment2/obj/Debug/net7.0/assignment2.pdb
+/Users/fatimakhalif/Documents/getHub/Winter-2024-Assignments/Assignment-02/assignment2/assignment2/obj/Debug/net7.0/assignment2.genruntimeconfig.cache
+/Users/fatimakhalif/Documents/getHub/Winter-2024-Assignments/Assignment-02/assignment2/assignment2/obj/Debug/net7.0/ref/assignment2.dll
