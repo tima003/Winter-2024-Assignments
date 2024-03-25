@@ -1,0 +1,5 @@
+/Users/fatimakhalif/Projects/example/example/obj/Debug/net7.0/example.csproj.AssemblyReference.cache
+/Users/fatimakhalif/Projects/example/example/obj/Debug/net7.0/example.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatimakhalif/Projects/example/example/obj/Debug/net7.0/example.AssemblyInfoInputs.cache
+/Users/fatimakhalif/Projects/example/example/obj/Debug/net7.0/example.AssemblyInfo.cs
+/Users/fatimakhalif/Projects/example/example/obj/Debug/net7.0/example.csproj.CoreCompileInputs.cache
