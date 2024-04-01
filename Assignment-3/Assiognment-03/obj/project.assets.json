@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/fatimakhalif/Projects/example/example/example.csproj",
-      "projectName": "example",
-      "projectPath": "/Users/fatimakhalif/Projects/example/example/example.csproj",
+      "projectUniqueName": "/Users/fatimakhalif/Projects/Assiognment-03/Assiognment-03/Assiognment-03.csproj",
+      "projectName": "Assiognment-03",
+      "projectPath": "/Users/fatimakhalif/Projects/Assiognment-03/Assiognment-03/Assiognment-03.csproj",
       "packagesPath": "/Users/fatimakhalif/.nuget/packages/",
-      "outputPath": "/Users/fatimakhalif/Projects/example/example/obj/",
+      "outputPath": "/Users/fatimakhalif/Projects/Assiognment-03/Assiognment-03/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/fatimakhalif/.nuget/NuGet/NuGet.Config"

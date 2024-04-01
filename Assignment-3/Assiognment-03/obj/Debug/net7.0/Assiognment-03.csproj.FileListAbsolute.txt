@@ -1,0 +1,15 @@
+/Users/fatimakhalif/Projects/Assiognment-03/Assiognment-03/obj/Debug/net7.0/Assiognment-03.csproj.AssemblyReference.cache
+/Users/fatimakhalif/Projects/Assiognment-03/Assiognment-03/obj/Debug/net7.0/Assiognment-03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatimakhalif/Projects/Assiognment-03/Assiognment-03/obj/Debug/net7.0/Assiognment-03.AssemblyInfoInputs.cache
+/Users/fatimakhalif/Projects/Assiognment-03/Assiognment-03/obj/Debug/net7.0/Assiognment-03.AssemblyInfo.cs
+/Users/fatimakhalif/Projects/Assiognment-03/Assiognment-03/obj/Debug/net7.0/Assiognment-03.csproj.CoreCompileInputs.cache
+/Users/fatimakhalif/Projects/Assiognment-03/Assiognment-03/bin/Debug/net7.0/Assiognment-03
+/Users/fatimakhalif/Projects/Assiognment-03/Assiognment-03/bin/Debug/net7.0/Assiognment-03.deps.json
+/Users/fatimakhalif/Projects/Assiognment-03/Assiognment-03/bin/Debug/net7.0/Assiognment-03.runtimeconfig.json
+/Users/fatimakhalif/Projects/Assiognment-03/Assiognment-03/bin/Debug/net7.0/Assiognment-03.dll
+/Users/fatimakhalif/Projects/Assiognment-03/Assiognment-03/bin/Debug/net7.0/Assiognment-03.pdb
+/Users/fatimakhalif/Projects/Assiognment-03/Assiognment-03/obj/Debug/net7.0/Assiognment-03.dll
+/Users/fatimakhalif/Projects/Assiognment-03/Assiognment-03/obj/Debug/net7.0/refint/Assiognment-03.dll
+/Users/fatimakhalif/Projects/Assiognment-03/Assiognment-03/obj/Debug/net7.0/Assiognment-03.pdb
+/Users/fatimakhalif/Projects/Assiognment-03/Assiognment-03/obj/Debug/net7.0/Assiognment-03.genruntimeconfig.cache
+/Users/fatimakhalif/Projects/Assiognment-03/Assiognment-03/obj/Debug/net7.0/ref/Assiognment-03.dll
